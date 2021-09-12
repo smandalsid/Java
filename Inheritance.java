@@ -1,7 +1,7 @@
 public class Inheritance {
     public static void main(String[] args) {
         Chil obj = new Chil();
-        obj.getchild("Siddharh", 19, "20BDS0157");
+        obj.getchild("Siddharth", 19, "20BDS0157");
         obj.display();
         obj.displaychild(); // takes from child class
         obj.display(); // takes from parent class
